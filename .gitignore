@@ -2,3 +2,5 @@
 ./mnist_all.mat
 **.npy
 **.pdf
+**.png
+**.jpg
