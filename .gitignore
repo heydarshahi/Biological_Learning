@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 ./mnist_all.mat
 **.npy
+**.pdf
