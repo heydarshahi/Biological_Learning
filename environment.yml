@@ -1,0 +1,17 @@
+name: hebbian
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - cudatoolkit=11.3.1=h59b6b97_2
+  - jupyter=1.0.0=py37_7
+  - matplotlib=3.5.0=py37haa95532_0
+  - pip=21.2.4=py37haa95532_0
+  - python=3.7.11=h6244533_0
+  - pytorch=1.10.2=py3.7_cuda11.3_cudnn8_0
+  - torchaudio=0.10.2=py37_cu113
+  - torchvision=0.11.3=py37_cu113
+  - pip:
+    - tensorflow==2.1.0
+    - tqdm==4.62.3
+    - scikit-learn==0.24.2

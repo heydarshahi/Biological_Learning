@@ -3,14 +3,23 @@ Example of "biological" learning for MNIST based on the paper [Unsupervised Lear
 
 ## Getting started
 
-install jupyter notebook and numpy, scipy, matplotlib.
+Install jupyter notebook and numpy, scipy, matplotlib.
 
 ```bash
 > jupyter notebook
 ```
-run `Unsupervised_learning_algorithm_MNIST.ipynb` and observe weights.
+Run any of the 4 notebooks, observe weights, train BIO and BP models, create your own experiments:
+- Unsupervised MNIST models
+- CIFAR10 BIO models
+- Unsupervised learning on Faces
+- Face detection with CNNs
+
+## Dependencies
+
+- Use `environment.yml` to create an Anaconda environment:
+- `conda env create -f environment.yml`
+- **Note:** To get the best of GPU functionalities, you should have a cuda-compatible gpu. Please change the `cudatoolkit`, `tensorflow`, and `pytorch` versions to match your GPU settings.
 
 ## Author and License
 (c) 2018 Dmitry Krotov
 -- Apache 2.0 License
-
