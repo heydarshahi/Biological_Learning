@@ -3,6 +3,7 @@
 ./weights/
 ./models/
 ./models/**
+./docs/**
 **.npy
 **.pdf
 **.png
