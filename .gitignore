@@ -2,6 +2,7 @@
 ./mnist_all.mat
 ./weights/
 ./models/
+./models/**
 **.npy
 **.pdf
 **.png
