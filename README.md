@@ -13,12 +13,12 @@ A GPU implementation of [Biological Learning](https://github.com/DimaKrotov/Biol
 
 
 ### Notebooks:
-- **Unsupervised_learning_algorithm_MNIST.ipynb**: Compares the BIO algorithm with backprop (BP) model on the MNIST dataset for digit recognition. 
+- [**Unsupervised_learning_algorithm_MNIST.ipynb**](Unsupervised_learning_algorithm_MNIST.ipynb): Compares the BIO algorithm with backprop (BP) model on the MNIST dataset for digit recognition. 
 
-- **CIFAR-10, + gpu implementation for bio-unsupervised.ipynb**: A comparison between BIO and BP models for object classification on CIFAR-10 dataset.
+- [**CIFAR-10, + gpu implementation for bio-unsupervised.ipynb**](https://github.com/heydarshahi/Biological_Learning/blob/master/CIFAR-10%2C%20%2B%20gpu%20implementation%20for%20bio-unsupervised.ipynb ): A comparison between BIO and BP models for object classification on CIFAR-10 dataset.
 
-- **Face detection.ipynb**: Real/Fake Face classification.
-- **Unsupervised learning on Face (Gender, Ethicity)**: Gender and ethnicity classification.
+- [**Face detection.ipynb**](https://github.com/heydarshahi/Biological_Learning/blob/master/Face%20detection.ipynb): Real/Fake Face classification.
+- [**Unsupervised learning on Face (Gender, Ethicity)**](https://github.com/heydarshahi/Biological_Learning/blob/master/Unsupervised%20learning%20on%20Face%20(Gender%2C%20Ethicity).ipynb): Gender and ethnicity classification.
 
 
 ## Installation
