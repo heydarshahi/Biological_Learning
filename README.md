@@ -2,7 +2,7 @@
 
 # Biological Learning
 
-A GPU implementation of [Biological Learning](https://github.com/DimaKrotov/Biological_Learning)
+A GPU implementation of [Biological Learning](https://github.com/DimaKrotov/Biological_Learning). This is a fork from [this repo](https://github.com/DimaKrotov/Biological_Learning) by D. Krotov and J. Hopfield.
 
 |<img src="https://user-images.githubusercontent.com/79289947/156650751-33da2304-cf57-4880-b51b-dc21e6a5f549.gif" width="200" height="200"/> | <img src="https://user-images.githubusercontent.com/79289947/156464655-c226dc9f-a93a-4c17-ab91-b20145b32d7f.gif" width="200" height="200"/> | <img src="https://user-images.githubusercontent.com/79289947/156464703-3d20ebc0-3a21-4532-b2f6-03279a524021.gif" width=200 height=200/> |
 |:---:|:---:|:---:
