@@ -81,3 +81,5 @@ Example of "biological" learning for MNIST based on the paper [Unsupervised Lear
 ## Author and License
 (c) 2018 Dmitry Krotov
 -- Apache 2.0 License
+
+This fork is the work of Yana Kuznetcov and Amin Heydarshahi and was initially developed as the course project for the graduate class Computational Visual Perception, instructded and supervised by [Prof. Dr. Bernhard Egger](https://eggerbernhard.ch/) and  [Dr. Patrick Krauß](https://www.ai.fau.digital/speakers/dr-patrick-kraus/). 
